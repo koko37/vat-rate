@@ -1,0 +1,9 @@
+.btn-default {
+  background-color: #98D4E5!important;
+  border-color: #88C4D5!important;
+
+  &:hover, &:active {
+    background-color: #68A485!important;
+    border-color: #68A485!important;
+  }
+}
